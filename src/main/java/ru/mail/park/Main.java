@@ -1,3 +1,5 @@
+package ru.mail.park;
+
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.stream.Stream;
